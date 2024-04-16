@@ -1,0 +1,26 @@
+.home img {
+height: 400px;
+width: 600px;
+justify-content: center;
+}
+p {
+    font-size: larger;
+}
+.h1,h2 {
+    font-size: 40px;
+}
+.gallery img {
+ height: 300px;
+ width: 400px;
+ justify-content: center;
+ padding-right: 30px;
+}
+.menu img{
+    height: 300px;
+    width: 400px;
+    /* justify-content: center; */
+    padding-bottom: 30px;  
+}
+#menu li {
+    text-align: -400px;
+}
